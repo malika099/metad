@@ -71,7 +71,8 @@ public class Main {
 
         System.out.println("jweofjikoj" + "ajkfgdioknvkalm");
         System.out.println("neopfdgbjkndsokb");
-        System.out.println("fsjekfhkbk"+"avjlkvjlk"
-        );
+        System.out.println("fsjekfhkbk"+"avjlkvjlk");
+        System.out.println("wertyu");
+        System.out.println("ffsdvbfds");
         }
     }
