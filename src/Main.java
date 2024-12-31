@@ -82,5 +82,10 @@ mm("malika");
         }
         public static void mm(String d){
             System.out.println("malika");
+
+
+            System.out.println("dkjgrfeo");
+
+            System.out.println("dkswrhugiuwrqkhogijhfwbkrghofwebgoijfwebhoijhebfoiwehbiowebhi");
         }
     }
