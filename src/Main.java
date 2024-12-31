@@ -65,34 +65,6 @@ public class Main {
             System.out.print("*");*/
 
 
-
-mm();
-mm(123);
-mm("malika");
-
-        }
-        public static void mm(){
-            System.out.println("gf");
-
-        }
-
-        public static void mm(int a){
-            System.out.println(123);
-
-        }
-        public static void mm(String d){
-            System.out.println("malika");
-
-
-            System.out.println("dkjgrfeo");
-
-            System.out.println("dkswrhugiuwrqkhogijhfwbkrghofwebgoijfwebhoijhebfoiwehbiowebhi");
-
-
-            System.out.println("dfjshojidgbkfigbkfgkb");
-            System.out.println(0);
-
-
-            System.out.println("drjgiorfwhkjgiofgk");
+        System.out.println("dsiojghhl");
         }
     }
