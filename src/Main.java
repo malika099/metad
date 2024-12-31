@@ -65,11 +65,7 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("fdgfjkfjvb");
-        System.out.println("kjbfdfiskhkfs");
-        System.out.println("gbffb");
-        System.out.println("fjdid");
-        System.out.println("jghfoihg");
+        System.out.println("bghj");
 
         }
     }
