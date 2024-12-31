@@ -65,17 +65,6 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("sdfgh");
-        System.out.println("sdfgh");
-        System.out.println("sdfgrdht");
-        System.out.println("dsfgdh");
-
-        System.out.println("sfdg");
-        System.out.println("sdfghj");
-        System.out.println("qwer");
-        System.out.println("qwer");
-        System.out.println("adsfgh");
-        System.out.println("werty");
-        System.out.println("qwerty");
+        System.out.println("dfg");
         }
     }
