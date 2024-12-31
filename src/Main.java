@@ -66,10 +66,21 @@ public class Main {
 
 
 
-
+mm();
+mm(123);
+mm("malika");
 
         }
         public static void mm(){
+            System.out.println("gf");
 
+        }
+
+        public static void mm(int a){
+            System.out.println(123);
+
+        }
+        public static void mm(String d){
+            System.out.println("malika");
         }
     }
