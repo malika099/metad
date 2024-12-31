@@ -78,5 +78,8 @@ public class Main {
         System.out.println("jfgikbefkgl");
         System.out.println("jfgdijokel");
         System.out.println("gelgkjrnleg");
+        System.out.println("fsfdv bdsfv");
+        System.out.println(1233);
+
         }
     }
