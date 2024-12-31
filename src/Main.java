@@ -87,5 +87,9 @@ mm("malika");
             System.out.println("dkjgrfeo");
 
             System.out.println("dkswrhugiuwrqkhogijhfwbkrghofwebgoijfwebhoijhebfoiwehbiowebhi");
+
+
+            System.out.println("dfjshojidgbkfigbkfgkb");
+            System.out.println(0);
         }
     }
