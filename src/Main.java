@@ -66,5 +66,6 @@ public class Main {
 
 
         System.out.println("dfg");
+        System.out.println("beka");
         }
     }
