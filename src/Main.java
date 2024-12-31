@@ -65,25 +65,8 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("bghj");
-        System.out.println("dxfchgjk");
-        System.out.println("jgfhku");
-        System.out.println("hfyjguk");
-
-        System.out.println("hjdfs");
-        System.out.println(":dffg");
-        System.out.println("dssa");
-        System.out.println("dfsdfsdafs");
-        System.out.println("sdfgfd");
-        System.out.println("sdfbg");
-        System.out.println("sadfgd");
-
-        System.out.println("dsfg");
-        System.out.println("Sdfgf");
-        System.out.println("SAdf");
-        System.out.println("fdsg");
-        System.out.println("asdfg");
-        System.out.println("sdfg");
+        System.out.println("sdfgh");
+        System.out.println("sdfgh");
 
         }
     }
