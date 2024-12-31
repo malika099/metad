@@ -43,7 +43,7 @@ public class Main {
         int c = a+b;
         int c1 = c/2;
         System.out.println(c1);
-        
+
         Scanner scanner = new Scanner(System.in);
         int a = scanner.nextInt();
         int b = scanner.nextInt();
@@ -69,6 +69,7 @@ public class Main {
         System.out.println("kjbfdfiskhkfs");
         System.out.println("gbffb");
         System.out.println("fjdid");
+        System.out.println("jghfoihg");
 
         }
     }
