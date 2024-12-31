@@ -69,5 +69,6 @@ public class Main {
         System.out.println("beka");
         System.out.println("fghjkjlhkg");
         System.out.println("hgvjk");
+        System.out.println("qwertyuio");
         }
     }
