@@ -65,21 +65,9 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("dsiojghhl");
-
-        System.out.println("sefjioshvbioshdb");
-
-        System.out.println("jweofjikoj" + "ajkfgdioknvkalm");
-        System.out.println("neopfdgbjkndsokb");
-        System.out.println("fsjekfhkbk"+"avjlkvjlk");
-        System.out.println("wertyu");
-        System.out.println("ffsdvbfds");
-        System.out.println("nfgljfklf");
-        System.out.println("jfgikbefkgl");
-        System.out.println("jfgdijokel");
-        System.out.println("gelgkjrnleg");
-        System.out.println("fsfdv bdsfv");
-        System.out.println(1233);
+        System.out.println("gjffijo");
+        System.out.println("fiojdk");
+        System.out.println("jdfj");
 
         }
     }
