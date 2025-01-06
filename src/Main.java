@@ -65,18 +65,6 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("dfg");
-        System.out.println("beka");
-        System.out.println("fghjkjlhkg");
-        System.out.println("hgvjk");
-        System.out.println("qwertyuio");
-        System.out.println("fghjkl;");
-        System.out.println("jdnb");
-        System.out.println("gkhbn");
-        System.out.println("1234567890");
-        System.out.println("fgkjflslgdk");
-        System.out.println("12345");
-
-        System.out.println("jfhbkeladvkb");
+        System.out.println("fbkjdglsadjb");
         }
     }
