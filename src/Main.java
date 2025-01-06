@@ -65,15 +65,6 @@ public class Main {
             System.out.print("*");*/
 
 
-        System.out.println("fbkjdglsadjb");
-        System.out.println("hkweqid");
-        System.out.println("kgjerlfwjgk");
-        System.out.println("jklk;");
-        System.out.println("qwertyuiop");
-        System.out.println("gjfngf");
-        System.out.println("qwerty");
-        System.out.println("wertyuio");
-        System.out.println("qwerty");
-        System.out.println("qwertyui");
+
         }
     }
