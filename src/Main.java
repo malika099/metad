@@ -74,5 +74,6 @@ public class Main {
         System.out.println("qwerty");
         System.out.println("wertyuio");
         System.out.println("qwerty");
+        System.out.println("qwertyui");
         }
     }
