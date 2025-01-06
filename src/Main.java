@@ -72,5 +72,6 @@ public class Main {
         System.out.println("qwertyuio");
         System.out.println("fghjkl;");
         System.out.println("jdnb");
+        System.out.println("gkhbn");
         }
     }
