@@ -65,6 +65,7 @@ public class Main {
             System.out.print("*");*/
         System.out.println("dc");
         System.out.println("asc");
+        System.out.println("dslcmwp");
 
         }
     }
