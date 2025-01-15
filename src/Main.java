@@ -67,6 +67,7 @@ public class Main {
         System.out.println("asc");
         System.out.println("dslcmwp");
         System.out.println("dscwd");
+        System.out.println("dsc");
 
         }
     }
