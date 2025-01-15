@@ -64,6 +64,7 @@ public class Main {
         for (int i = 0; i < count; i++) {
             System.out.print("*");*/
         System.out.println("dc");
+        System.out.println("asc");
 
         }
     }
