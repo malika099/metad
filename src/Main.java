@@ -63,8 +63,7 @@ public class Main {
     public static void sum (int count){
         for (int i = 0; i < count; i++) {
             System.out.print("*");*/
-
-
+        System.out.println("dc");
 
         }
     }
